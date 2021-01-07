@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FurnitureShop</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="favorite">Favorite</string>
+    <string name="location">Location</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_adytia_kresna_farisi">Hello, Kresna</string>
+    <string name="search_furniture">Search Furniture</string>
+    <string name="category">Category</string>
+    <string name="sofa">Sofa</string>
+    <string name="table">Table</string>
+    <string name="chair">Chair</string>
+    <string name="all">All</string>
+    <string name="dari">Dari</string>
+    <string name="harga">Harga</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="beli_sekarang">Beli Sekarang</string>
+    <string name="checkout">Checkout</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="total">Total</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="price">Price</string>
+</resources>
